@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [52.48498, 13.43279]}, "properties": {"marker-symbol": "food", "name": "Azzam- Sonnenallee 54 - Shawarma sandwich for 2.5", "address": "Sonnenallee 54, 12045 Berlin, Germany"}}]}
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.43279, 52.48498]}, "properties": {"marker-symbol": "food", "name": "Azzam- Sonnenallee 54 - Shawarma sandwich for 2.5", "address": "Sonnenallee 54, 12045 Berlin, Germany"}}]}
