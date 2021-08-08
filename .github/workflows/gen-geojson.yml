@@ -38,3 +38,9 @@ jobs:
 
       - name: Run a multi-line script
         run: cat input.txt | python ./build_geojson.py > locations.geojson
+        
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: locations.geojson
+          commit_message: Update locations.geojson
+          skip_dirty_check: false
