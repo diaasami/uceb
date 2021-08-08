@@ -333,6 +333,21 @@
     {
       "geometry": {
         "coordinates": [
+          13.40894,
+          52.54715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Gleimstra\u00dfe 18, 10437 Berlin, Germany",
+        "marker-symbol": "restaurant",
+        "name": "Gleimstra\u00dfe 18, 10437 Berlin "
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.43119,
           52.49876
         ],
