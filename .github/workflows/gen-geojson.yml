@@ -37,9 +37,11 @@ jobs:
            pip install -r requirements.txt
 
       - name: Run a multi-line script
-        run: cat input.txt | python ./build_geojson.py > locations.geojson
+        shell: bash
         env:
           APIKEY: ${{ secrets.APIKEY }}
+        run: |
+          cat input.txt | python ./build_geojson.py > locations.geojson
         
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
