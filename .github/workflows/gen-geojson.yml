@@ -5,8 +5,8 @@ name: Autogen geojson
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main, auto-gen ]
+  #push:
+    #branches: [ main, auto-gen ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -37,4 +37,14 @@ jobs:
            pip install -r requirements.txt
 
       - name: Run a multi-line script
-        run: cat input.txt | python ./build_geojson.py > locations.geojson
+        shell: bash
+        env:
+          APIKEY: ${{ secrets.APIKEY }}
+        run: |
+          cat input.txt | python ./build_geojson.py > locations.geojson
+        
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: locations.geojson
+          commit_message: Update locations.geojson
+          skip_dirty_check: false
