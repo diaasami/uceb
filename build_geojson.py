@@ -1,19 +1,17 @@
+import sys
+import fileinput
 import json
 import os
-import fileinput
 import requests
-import re
-import json
-import sys
 
-#sep = re.compile('[-,]')
-
-output = { "type": "FeatureCollection",
+output = {
+        "type": "FeatureCollection",
         "features": []
         }
 
-def createFeature(coords, addr, name):
-    return { "type": "Feature",
+def create_feature(coords, addr, comment):
+    return {
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -23,21 +21,21 @@ def createFeature(coords, addr, name):
                 },
             "properties": {
                 "marker-symbol": "restaurant",
-                "name": name,
+                "highlight": comment,
                 "address": addr
                 }
             }
 
 APIKEY=os.environ["APIKEY"]
 
-for line in fileinput.input():
-    #print(line)
+for line in fileinput.input(openhook=fileinput.hook_encoded("utf-8")):
     line=line.strip()
+
     if '|' in line:
-        addr=line[:line.find('|')]
+        addr=line[:line.index('|')]
     else:
         try:
-            addr=line[:line.rfind('|')]
+            addr=line[:line.rindex('-')]
         except:
             addr=line
 
@@ -45,11 +43,12 @@ for line in fileinput.input():
         params = {
                 'lang': 'en',
                 'in': 'countryCode:DEU',
-                'limit': 2,
+                'limit': 1,
                 'q': addr,
                 'apiKey': APIKEY,
                 'qq': 'city=Berlin'
                 }
+
         r = requests.get('https://geocode.search.hereapi.com/v1/geocode',
                 params=params)
 
@@ -57,19 +56,20 @@ for line in fileinput.input():
 
         if len(js["items"]) == 0:
             if '-' in addr:
-                addr = addr[:addr.rfind('-')]
+                addr = addr[:addr.rindex('-')]
             else:
                 print("can't handle", addr, file=sys.stderr)
                 break
         else:
-            break;
-    
+            break
+
     if len(js["items"]):
         obj=js["items"][0]
+        comment=line[len(addr):].strip(' ,|-')
 
         output["features"].append(
-                createFeature(name=addr,
+                create_feature(comment=comment,
                     addr=obj["address"]["label"],
                     coords=list(reversed(obj["position"].values()))))
 
-print(json.dumps(output, indent=2, sort_keys=True))
+print(json.dumps(output, indent=2, ensure_ascii=False))
