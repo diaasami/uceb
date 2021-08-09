@@ -1,470 +1,470 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.43279,
           52.48498
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Sonnenallee 54, 12045 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Azzam- Sonnenallee 54 - Shawarma sandwich for 2.5"
-      },
-      "type": "Feature"
+        "highlight": "Shawarma sandwich for 2.5€",
+        "address": "Sonnenallee 54, 12045 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.41686,
           52.51208
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Schmuck's Restauration, Br\u00fcckenstra\u00dfe 13, 10179 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Schmuck's Restauration Br\u00fcckenstra\u00dfe 13, 10179 Berlin \u20ac5.60 for a homemade Schnitzel, pommes, sala"
-      },
-      "type": "Feature"
+        "highlight": "",
+        "address": "Schmuck's Restauration, Brückenstraße 13, 10179 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.4287,
           52.48137
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Libanon Falafel, Flughafenstra\u00dfe 34, 12053 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Libanon Falafel, Flughafenstra\u00dfe 34, 12053 Berlin - Shawarma / Kafta / Falafel for 1,50"
-      },
-      "type": "Feature"
+        "highlight": "Shawarma / Kafta / Falafel for 1,50€",
+        "address": "Libanon Falafel, Flughafenstraße 34, 12053 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          13.41035,
-          52.52953
-        ],
-        "type": "Point"
+          13.4132,
+          52.53329
+        ]
       },
       "properties": {
-        "address": "Sch\u00f6nhauser Allee 5, 10119 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Asia street food on Sch\u00f6nhauser Allee, right by Senefelder Platz U-Bahn < 5 eur"
-      },
-      "type": "Feature"
+        "highlight": "Bahn < 5 euro",
+        "address": "U-Bahn-Senefelderplatz, Schönhauser Allee, 10435 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.41151,
           52.54053
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Pane E Vino, Kastanienallee 2, 10435 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Pane et Vino, Kastanienallee 2, 10435, near U Eberswalder - 3,90 pizza past"
-      },
-      "type": "Feature"
+        "highlight": "3,90 pizza pasta",
+        "address": "Pane E Vino, Kastanienallee 2, 10435 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.42318,
           52.49043
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Thuy Anh - Asia Bistro, Boppstra\u00dfe 11, 10967 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Boppstra\u00dfe 11 (U8 Sch\u00f6nleinstr) Thuy Anh Asia Bistro "
-      },
-      "type": "Feature"
+        "highlight": "Between 3 - 6 € Currys",
+        "address": "Thuy Anh - Asia Bistro, Boppstraße 11, 10967 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.36889,
           52.54772
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Dar4 - Sudanesische Spezialit\u00e4ten, Reinickendorfer Stra\u00dfe 95, 13347 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Reichenbergerstr (U1 Kotti) Darfur (Sudanesische Spezialit\u00e4ten) "
-      },
-      "type": "Feature"
+        "highlight": "2,50 Falafel, Halloumi, Magali",
+        "address": "Dar4 - Sudanesische Spezialitäten, Reinickendorfer Straße 95, 13347 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.44981,
           52.52232
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Pomodorino, Stra\u00dfmannstra\u00dfe 21, 10249 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Pomodorino, Stra\u00dfmannstra\u00dfe 21, 10249 Berlin-Friedrichshain "
-      },
-      "type": "Feature"
+        "highlight": "Pizza for 2,50 / 2,60€",
+        "address": "Pomodorino, Straßmannstraße 21, 10249 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.52139,
           52.46131
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Imbiss Ri\u00dfani, Firlstra\u00dfe 38, 12459 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Imbiss Rissani; firlstra\u00dfe 38; shawarma, falafel +softdrink 2,50"
-      },
-      "type": "Feature"
+        "highlight": "",
+        "address": "Imbiss Rißani, Firlstraße 38, 12459 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.45322,
           52.52319
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Noodle Box, Stra\u00dfmannstra\u00dfe 41, 10249 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Asia Noodle Box inside Mall of Berlin - 2,50"
-      },
-      "type": "Feature"
+        "highlight": "2,50€",
+        "address": "Noodle Box, Straßmannstraße 41, 10249 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.35327,
           52.49938
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Nollendorfplatz, 10777 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "D\u00f6ner Nollendorfplatz "
-      },
-      "type": "Feature"
+        "highlight": "2.50€",
+        "address": "Nollendorfplatz, 10777 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.31656,
           52.50632
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Lon Men's, Kantstra\u00dfe 33, 10625 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Lon Men's Noodle House Kantstra\u00dfe 33, 10625 "
-      },
-      "type": "Feature"
+        "highlight": "7 €",
+        "address": "Lon Men's, Kantstraße 33, 10625 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.23779,
           52.42811
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Derby Klause, Robert-von-Ostertag-Stra\u00dfe 30, 14163 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Derby Klause - Traditional- Robert-von-Ostertag-Str. 30 - ~ 12"
-      },
-      "type": "Feature"
+        "highlight": "~ 12€",
+        "address": "Derby Klause, Robert-von-Ostertag-Straße 30, 14163 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.20925,
           52.42625
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Potsdamer Chaussee 35E, 14129 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Fansipan - Vietnamese - Potsdamer Chaussee 35E - Around 8"
-      },
-      "type": "Feature"
+        "highlight": "Around 8€",
+        "address": "Potsdamer Chaussee 35E, 14129 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.43892,
           52.4997
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Wrangelstra\u00dfe 42, 10997 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Tuna's Kebab, Wrangelstra\u00dfe 42 - on of the best kebabs, maybe the best in Kreuzberg for 4,50"
-      },
-      "type": "Feature"
+        "highlight": "on of the best kebabs, maybe the best in Kreuzberg for 4,50€",
+        "address": "Wrangelstraße 42, 10997 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.39403,
           52.49081
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Sushi Cube, Zossener Stra\u00dfe 18, 10961 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Sushi cube Zossener Str. 18, 10961 Berlin \u20ac2-10 (happy hours, 50% off most stuff before 6pm"
-      },
-      "type": "Feature"
+        "highlight": "10 (happy hours, 50% off most stuff before 6pm)",
+        "address": "Sushi Cube, Zossener Straße 18, 10961 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          13.41401,
-          52.55315
-        ],
-        "type": "Point"
+          13.35001,
+          52.50009
+        ]
       },
       "properties": {
-        "address": "San Marco, Sch\u00f6nhauser Allee 102, 10439 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "San Marco - Sch\u00f6nhauser Allee 102, 10439 Berlin (3,80\u20ac for All Pizzas"
-      },
-      "type": "Feature"
+        "highlight": "Schönhauser Allee 102, 10439 Berlin (3,80€ for All Pizzas)",
+        "address": "San Marco, Kleiststraße 36, 10787 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.38447,
           52.55047
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Urfa Tatlises, Badstra\u00dfe 65, 13357 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Tatli-Ses Imbiss - Badstra\u00dfe 65, 13357 Berlin (D\u00f6ner 2\u20ac, Soup 1,5\u20ac, Turkish Pizza 0,8\u20ac"
-      },
-      "type": "Feature"
+        "highlight": "Badstraße 65, 13357 Berlin (Döner 2€, Soup 1,5€, Turkish Pizza 0,8€)",
+        "address": "Urfa Tatlises, Badstraße 65, 13357 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.33856,
           52.52748
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Gefl\u00fcgel-Oase, Arminiusstra\u00dfe 2, 10551 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Gefl\u00fcgel Oase, Markthalle Arminius und Marheineke. Halber Hahn 2,30"
-      },
-      "type": "Feature"
+        "highlight": "",
+        "address": "Geflügel-Oase, Arminiusstraße 2, 10551 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.40348,
           52.52755
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Fuki Sushi, Rosenthaler Stra\u00dfe 61, 10119 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Rosenthaler Str. 61, 10119 Berlin (Mitte) - Fuki Sushi "
-      },
-      "type": "Feature"
+        "highlight": "Sushi Sets around 5 €",
+        "address": "Fuki Sushi, Rosenthaler Straße 61, 10119 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.40824,
           52.52692
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Banh Mi Stable, Alte Sch\u00f6nhauser Stra\u00dfe 50, 10119 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Alte Sch\u00f6nhauser Str. 50, 10119 Berlin (Mitte) - Banh Mi Stable "
-      },
-      "type": "Feature"
+        "highlight": "Banh Mi for 4,50 €",
+        "address": "Banh Mi Stable, Alte Schönhauser Straße 50, 10119 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.39407,
           52.49094
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Tutti Island, Zossener Stra\u00dfe 17, 10961 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Tutti Island - Zossener Str. 17 Falafel + Halloumi 3,50"
-      },
-      "type": "Feature"
+        "highlight": "Zossener Str. 17 Falafel + Halloumi 3,50€",
+        "address": "Tutti Island, Zossener Straße 17, 10961 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.40894,
           52.54715
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Gleimstra\u00dfe 18, 10437 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Gleimstra\u00dfe 18, 10437 Berlin "
-      },
-      "type": "Feature"
+        "highlight": "Indian, all dishes 4.90 (used to be 4.50) soup 1.90. from 12 to 16 Uhr tho.",
+        "address": "Gleimstraße 18, 10437 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.43119,
           52.49876
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Spreewaldplatz 4, 10999 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Rissani, Spreewaldpl. 4, 10999 Berlin "
-      },
-      "type": "Feature"
+        "highlight": "Shawarma and Falafel plate 4,50€, obscenely large",
+        "address": "Spreewaldplatz 4, 10999 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.40169,
           52.49042
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Gneisenaustra\u00dfe 69, 10961 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Gneisenaustra\u00dfe 69, 10961 Berlin, Germany "
-      },
-      "type": "Feature"
+        "highlight": "Humus & Baba Ghanoush | 3€",
+        "address": "Gneisenaustraße 69, 10961 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.29806,
           52.5012
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Vietnam Imbiss, Damaschkestra\u00dfe 30, 10711 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Vietnam Imbiss, Damaschkestra\u00dfe 30, 10711 Berlin "
-      },
-      "type": "Feature"
+        "highlight": "Meal of the day for under 5€",
+        "address": "Vietnam Imbiss, Damaschkestraße 30, 10711 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.46548,
           52.51443
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Frankfurter Allee 56, 10247 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Riga's Pizza Box, Rigaer Str. 56, 10247 Berlin (S Frankfurter Allee), almost every Pizza 4"
-      },
-      "type": "Feature"
+        "highlight": "",
+        "address": "Frankfurter Allee 56, 10247 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.36022,
           52.54452
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Triftstra\u00dfe 5, 13353 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Sarajevo Berlin, Triftstr. 8, 13353 in Wedding. borek, 5 eur"
-      },
-      "type": "Feature"
+        "highlight": "",
+        "address": "Eurogida, Triftstraße 5, 13353 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.44813,
           52.54962
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Le Food, Langhansstra\u00dfe 12, 13086 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Le Food, Langhansstr. 12, 13086 "
-      },
-      "type": "Feature"
+        "highlight": "Fried rice or noodles with veggies 3.5€, with chicken or tofu 4.5€",
+        "address": "Le Food, Langhansstraße 12, 13086 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.44333,
           52.49927
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Sadhu, Falckensteinstra\u00dfe 41, 10997 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Sadhu, Falckensteinstra\u00dfe 41, 10997. indian, menu: 7,50"
-      },
-      "type": "Feature"
+        "highlight": "",
+        "address": "Sadhu, Falckensteinstraße 41, 10997 Berlin, Germany"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           13.3857,
           52.55901
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
-        "address": "Soldiner Stra\u00dfe 27, 13359 Berlin, Germany",
         "marker-symbol": "restaurant",
-        "name": "Soldiner Str. 27, 13359 Berlin "
-      },
-      "type": "Feature"
+        "highlight": "Döner Kebap | €2.00",
+        "address": "Soldiner Straße 27, 13359 Berlin, Germany"
+      }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
