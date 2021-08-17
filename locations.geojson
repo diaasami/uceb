@@ -432,7 +432,7 @@
       },
       "properties": {
         "marker-symbol": "restaurant",
-        "highlight": "Fried rice or noodles with veggies 3.5€, with chicken or tofu 4.5€",
+        "highlight": "Fried rice or noodles with veggies 3.50€, with chicken or tofu 4.5€",
         "address": "Le Food, Langhansstraße 12, 13086 Berlin, Germany"
       }
     },
@@ -464,6 +464,21 @@
         "marker-symbol": "restaurant",
         "highlight": "Döner Kebap | €2.00",
         "address": "Soldiner Straße 27, 13359 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45303,
+          52.51942
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Döner for €3.50",
+        "address": "Tio, Petersburger Straße 77, 10249 Berlin, Germany"
       }
     }
   ]
