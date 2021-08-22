@@ -63,9 +63,25 @@ for line in fileinput.input(openhook=fileinput.hook_encoded("utf-8")):
         else:
             break
 
+    def checkFieldScores(fieldScores):
+        result=True
+
+        for v in fieldScores.values():
+            if hasattr(v, '__iter__'):
+                result=result and all([s > 0.99 for s in v])
+            else:
+                result=result and v > 0.99
+
+        return result
+
     if len(js["items"]):
         obj=js["items"][0]
         comment=line[len(addr):].strip(' ,|-')
+        scoring=obj["scoring"]
+        if not checkFieldScores(obj["scoring"]["fieldScore"]):
+            print(f"{addr} may not be geocoded correctly\n{scoring}\naddress found is {obj['address']['label']}",
+                    file=sys.stderr,
+                    flush=True)
 
         output["features"].append(
                 create_feature(comment=comment,
