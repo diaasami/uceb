@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43279,
+          52.48498
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Shawarma sandwich for 2.5€",
+        "address": "Azzam, Sonnenallee 54, 12045 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41686,
+          52.51208
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Schmuck's Restauration, Brückenstraße 13, 10179 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4287,
+          52.48137
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Shawarma / Kafta / Falafel for 1,50€",
+        "address": "Libanon Falafel, Flughafenstraße 34, 12053 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4132,
+          52.53329
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Bahn < 5 euro",
+        "address": "U-Bahn-Senefelderplatz, Schönhauser Allee, 10435 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41151,
+          52.54053
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "3,90 pizza pasta",
+        "address": "Pane E Vino, Kastanienallee 2, 10435 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42318,
+          52.49043
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Between 3 - 6 € Currys",
+        "address": "Thuy Anh - Asia Bistro, Boppstraße 11, 10967 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41741,
+          52.49978
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "2,50 Falafel, Halloumi, Magali",
+        "address": "Libanesische Spezialitäten Omara Ali Moussa, Reichenberger Straße 175, 10999 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44981,
+          52.52232
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Pizza for 2,50 / 2,60€",
+        "address": "Pomodorino, Straßmannstraße 21, 10249 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52139,
+          52.46131
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Imbiss Rißani, Firlstraße 38, 12459 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28675,
+          52.58394
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "2,50€",
+        "address": "Noodle, Am Borsigturm 2, 13507 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35327,
+          52.49938
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "2.50€",
+        "address": "Nollendorfplatz, 10777 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31656,
+          52.50632
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "7 €",
+        "address": "Lon Men's, Kantstraße 33, 10625 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.23779,
+          52.42811
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "~ 12€",
+        "address": "Derby Klause, Robert-von-Ostertag-Straße 30, 14163 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20902,
+          52.42616
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Around 8€",
+        "address": "Fansipan Restaurant, Potsdamer Chaussee 36, 14129 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43892,
+          52.4997
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "on of the best kebabs, maybe the best in Kreuzberg for 4,50€",
+        "address": "Wrangelstraße 42, 10997 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39403,
+          52.49081
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "10 (happy hours, 50% off most stuff before 6pm)",
+        "address": "Sushi Cube, Zossener Straße 18, 10961 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35001,
+          52.50009
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Schönhauser Allee 102, 10439 Berlin (3,80€ for All Pizzas)",
+        "address": "San Marco, Kleiststraße 36, 10787 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38447,
+          52.55047
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Badstraße 65, 13357 Berlin (Döner 2€, Soup 1,5€, Turkish Pizza 0,8€)",
+        "address": "Tatli-ses Imbiss Gaststätte, Badstraße 65, 13357 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33856,
+          52.52748
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Geflügel-Oase, Arminiusstraße 2, 10551 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40348,
+          52.52755
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Sushi Sets around 5 €",
+        "address": "Fuki Sushi, Rosenthaler Straße 61, 10119 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40824,
+          52.52692
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Banh Mi for 4,50 €",
+        "address": "Banh Mi Stable, Alte Schönhauser Straße 50, 10119 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39407,
+          52.49094
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Zossener Str. 17 Falafel + Halloumi 3,50€",
+        "address": "Tutti Island, Zossener Straße 17, 10961 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40894,
+          52.54715
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Indian, all dishes 4.90 (used to be 4.50) soup 1.90. from 12 to 16 Uhr tho.",
+        "address": "Gleimstraße 18, 10437 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43119,
+          52.49876
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Shawarma and Falafel plate 4,50€, obscenely large",
+        "address": "Rissani, Spreewaldplatz 4, 10999 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40169,
+          52.49042
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Humus & Baba Ghanoush | 3€",
+        "address": "Gneisenaustraße 69, 10961 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29806,
+          52.5012
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Meal of the day for under 5€",
+        "address": "Vietnam Imbiss, Damaschkestraße 30, 10711 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46548,
+          52.51443
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Frankfurter Allee 56, 10247 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35939,
+          52.54425
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Sarajevo Berlin Balkan Grill, Triftstraße 8, 13353 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44813,
+          52.54962
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Fried rice or noodles with veggies 3.50€, with chicken or tofu 4.5€",
+        "address": "Le Food, Langhansstraße 12, 13086 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44333,
+          52.49927
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Sadhu, Falckensteinstraße 41, 10997 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3857,
+          52.55901
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Döner Kebap | €2.00",
+        "address": "Soldiner Straße 27, 13359 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45303,
+          52.51942
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Döner for €3.50",
+        "address": "Tio, Petersburger Straße 77, 10249 Berlin, Germany"
+      }
+    }
+  ]
+}

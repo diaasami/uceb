@@ -1,0 +1,290 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32992,
+          52.46332
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "berlin",
+        "address": "Udagawa, Feuerbachstraße 24, 12163 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31573,
+          52.50387
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "berlin",
+        "address": "Heno Heno, Wielandstraße 37, 10629 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37691,
+          52.51604
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37562,
+          52.50934
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Potsdamer Platz, Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43279,
+          52.48498
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Azzam, Sonnenallee 54, 12045 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38732,
+          52.45725
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Mmaah Verwaltungs, Wenckebachstraße 19, 12099 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4082,
+          52.54131
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Eberswalder Straße, Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42464,
+          52.47751
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Sahara, Herrfurthstraße 5, 12049 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31637,
+          52.514
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "TU-Long China Bistro, Otto-Suhr-Allee 25, 10585 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42099,
+          52.52516
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Kim999 Vietnamese Vegan & Veggie Cuisine, Mollstraße 31, 10249 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2943,
+          52.50625
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "egg sandwich",
+        "address": "Datscha Bistro, Suarezstraße 20, 14057 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42201,
+          52.4873
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "hasenheide",
+        "address": "Hamy Cafe, Hasenheide 10, 10967 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33165,
+          52.4677
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "steglitz",
+        "address": "Lac Viet, Rheinstraße 50, 12161 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36891,
+          52.54756
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Dan Thai Food, Reinickendorfer Straße 96, 13347 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40824,
+          52.52692
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "pork, chicken or tofu banh mi for just five euro and it’s very good!",
+        "address": "Banh Mi Stable, Alte Schönhauser Straße 50, 10119 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42318,
+          52.49043
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Thuy Anh - Asia Bistro, Boppstraße 11, 10967 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40374,
+          52.52541
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "rosenthaler str 50",
+        "address": "Viet Village, Rosenthaler Straße 50, 10178 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39123,
+          52.52589
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "Re-Stores, Auguststraße 3, 10117 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3153,
+          52.50774
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "nice Ban mhi sandwiches and few bowls all under 10 euro",
+        "address": "Pestalozzistraße, Berlin, Germany"
+      }
+    }
+  ]
+}
