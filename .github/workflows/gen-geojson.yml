@@ -41,6 +41,6 @@ jobs:
         
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: locations.geojson
-          commit_message: Update locations.geojson
+          file_pattern: locations_*.geojson
+          commit_message: Update locations_*.geojson
           skip_dirty_check: false
