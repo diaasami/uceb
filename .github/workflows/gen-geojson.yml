@@ -33,12 +33,11 @@ jobs:
            python -m pip install --upgrade pip
            pip install -r requirements.txt
 
-      - name: Generate new geojson
+      - name: Generate new geojson(s)
         shell: bash
         env:
           APIKEY: ${{ secrets.APIKEY }}
-        run: |
-          cat input.txt | python ./build_geojson.py > locations.geojson
+        run: make
         
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
