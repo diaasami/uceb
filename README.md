@@ -7,6 +7,6 @@ The list of locations is in [input_under10.txt](https://github.com/diaasami/uceb
 
 ## Technical details
 
-Input files are named input_\*.txt and when modified, they get geocoded automatically into a locations_\*.geojson file via a [github action](https://github.com/diaasami/uceb/blob/main/.github/workflows/gen-geojson.yml), a [Makefile](https://github.com/diaasami/uceb/blob/main/.github/workflows/Makefile) and a [python script](https://github.com/diaasami/uceb/blob/main/build_geojson.py).
+Input files are named input_\*.txt and when modified, they get geocoded automatically into a locations_\*.geojson file via a [github action](https://github.com/diaasami/uceb/blob/main/.github/workflows/gen-geojson.yml), a [Makefile](https://github.com/diaasami/uceb/blob/main/Makefile) and a [python script](https://github.com/diaasami/uceb/blob/main/build_geojson.py).
 
 The Makefile processes files that are updated only, thereby avoiding unnecessary geocoding calls.
