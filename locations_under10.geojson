@@ -285,6 +285,276 @@
         "highlight": "nice Ban mhi sandwiches and few bowls all under 10 euro",
         "address": "Pestalozzistraße, Berlin, Germany"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48951,
+          52.52674
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Pakistani food, proper spicy.",
+        "address": "Dong Xuan Center, Herzbergstraße 128, 10367 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44378,
+          52.49796
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "clean and so good. 6.5 for a massive fried rice.",
+        "address": "Wrangelstraße 75, 10997 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32177,
+          52.50702
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Grolmannstr",
+        "address": "Ashoka, Grolmanstraße 51, 10623 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33735,
+          52.52638
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Pizza con Amore",
+        "address": "Pizza Con Amore, Turmstraße 82, 10551 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34283,
+          52.50159
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Burritos, burrito bowls, tacos, and quesadillas for under 10 Euros",
+        "address": "Wittenbergplatz, Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41353,
+          52.52202
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Burritos, burrito bowls, tacos, and quesadillas for under 10 Euros",
+        "address": "Alexanderplatz, 10178 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3552,
+          52.57374
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "many dishes under 10 of great quality.",
+        "address": "Musuko, Lindauer Allee 20, 13407 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42325,
+          52.49167
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Kottbusserdam",
+        "address": "Gel Gor Kofteci, Kottbusser Damm 80, 10967 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35716,
+          52.52498
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Südstern",
+        "address": "Yogi Restaurant, Rathenower Straße 6, 10559 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38604,
+          52.507
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Torstrasse",
+        "address": "Yarok, Wilhelmstraße 41A, 10963 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44178,
+          52.49631
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Gorlizerpark",
+        "address": "Gloria Bar, Görlitzer Straße 42, 10997 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40079,
+          52.52943
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "10119",
+        "address": "La Cantina, Torstraße 124, 10119 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43129,
+          52.53422
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Greifswalder strasse",
+        "address": "Banh Xeo Saigon, Greifswalder Straße 41, 10405 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32588,
+          52.50566
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "some really good soup and fresh salad for 6e or less",
+        "address": "Kantstraße, Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37691,
+          52.51604
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "10965",
+        "address": "Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42115,
+          52.49803
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "10999",
+        "address": "Basmah, Reichenberger Straße 26, 10999 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33856,
+          52.52748
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "",
+        "address": "The Poutine Kitchen, Arminiusstraße 2, 10551 Berlin, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39407,
+          52.49094
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "highlight": "Sudanese food and the best peanut sauces in town",
+        "address": "Tutti Island, Zossener Straße 17, 10961 Berlin, Germany"
+      }
     }
   ]
 }
